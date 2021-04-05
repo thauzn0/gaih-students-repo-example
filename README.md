@@ -20,6 +20,6 @@ Some python libraries
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)![TopLearnerCertificate](https://user-images.githubusercontent.com/81980371/113599207-f65b7c80-9646-11eb-99ec-4404fbcf6c6d.png)
+![](https://user-images.githubusercontent.com/81980371/113599207-f65b7c80-9646-11eb-99ec-4404fbcf6c6d.png)
 
 
