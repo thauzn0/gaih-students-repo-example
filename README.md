@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 29.08.2002  
 **Name:** Taha 
 **Surname:** Uzun  
 **Email:** thauzn123@hotmail.com
