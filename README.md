@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# GAIH Taha Uzun Repo
 ![](img/newlogo.png)
 
 **Course Date:** 29.08.2002  
